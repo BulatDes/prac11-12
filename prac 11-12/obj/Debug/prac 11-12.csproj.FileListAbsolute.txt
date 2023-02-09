@@ -1,0 +1,10 @@
+D:\2 Семестр\Основы алг\prac 11-12\prac 11-12\bin\Debug\prac 11-12.exe.config
+D:\2 Семестр\Основы алг\prac 11-12\prac 11-12\bin\Debug\prac 11-12.exe
+D:\2 Семестр\Основы алг\prac 11-12\prac 11-12\bin\Debug\prac 11-12.pdb
+D:\2 Семестр\Основы алг\prac 11-12\prac 11-12\obj\Debug\prac 11-12.csproj.AssemblyReference.cache
+D:\2 Семестр\Основы алг\prac 11-12\prac 11-12\obj\Debug\prac_11_12.Student_work.resources
+D:\2 Семестр\Основы алг\prac 11-12\prac 11-12\obj\Debug\prac_11_12.Properties.Resources.resources
+D:\2 Семестр\Основы алг\prac 11-12\prac 11-12\obj\Debug\prac 11-12.csproj.GenerateResource.cache
+D:\2 Семестр\Основы алг\prac 11-12\prac 11-12\obj\Debug\prac 11-12.csproj.CoreCompileInputs.cache
+D:\2 Семестр\Основы алг\prac 11-12\prac 11-12\obj\Debug\prac 11-12.exe
+D:\2 Семестр\Основы алг\prac 11-12\prac 11-12\obj\Debug\prac 11-12.pdb
